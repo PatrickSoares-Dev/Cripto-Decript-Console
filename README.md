@@ -7,7 +7,7 @@ Um sistema de criptografia e descriptografia no console desenvolvido em C# usand
 
 ## Dependências
 
-- [PgpCore](https://www.nuget.org/packages/PgpCore/) (X.X.X ou superior)
+- [PgpCore](https://www.nuget.org/packages/PgpCore/) (5.10.0 ou superior)
 
 ## Uso
 
