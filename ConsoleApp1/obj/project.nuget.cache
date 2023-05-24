@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "uPNlLAcRygog5nM+sYXSXEdD16IRYkxZn6+44c2gdLXK+qphYfzzXbG1pOxdB4LxXV8iO6/YVZnBoNIuFYY+6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\patrick.oliveira\\Desktop\\Criptografia\\Criptografia\\Programa\\Teste\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patrick.oliveira\\.nuget\\packages\\bouncycastle.netcore\\1.8.2\\bouncycastle.netcore.1.8.2.nupkg.sha512",
+    "C:\\Users\\patrick.oliveira\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\patrick.oliveira\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\patrick.oliveira\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\patrick.oliveira\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\patrick.oliveira\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\patrick.oliveira\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\patrick.oliveira\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\patrick.oliveira\\.nuget\\packages\\pgpcore\\1.4.0\\pgpcore.1.4.0.nupkg.sha512",
+    "C:\\Users\\patrick.oliveira\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\patrick.oliveira\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\patrick.oliveira\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\patrick.oliveira\\.nuget\\packages\\system.reflection.typeextensions\\4.1.0\\system.reflection.typeextensions.4.1.0.nupkg.sha512",
+    "C:\\Users\\patrick.oliveira\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\patrick.oliveira\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\patrick.oliveira\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

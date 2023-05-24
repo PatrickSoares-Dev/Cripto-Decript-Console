@@ -1,0 +1,188 @@
+C:\Users\rafael.alves\Desktop\MVNO\Criptografica\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\rafael.alves\Desktop\MVNO\Criptografica\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\rafael.alves\Desktop\MVNO\Criptografica\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\rafael.alves\Desktop\MVNO\Criptografica\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\rafael.alves\Desktop\MVNO\Criptografica\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\rafael.alves\Desktop\MVNO\Criptografica\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\rafael.alves\Desktop\MVNO\Criptografica\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\rafael.alves\Desktop\MVNO\Criptografica\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\rafael.alves\Desktop\MVNO\Criptografica\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\rafael.alves\Desktop\MVNO\Criptografica\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\rafael.alves\Desktop\MVNO\Criptografica\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\tmp\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\tmp\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\tmp\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\tmp\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\tmp\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\tmp\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\tmp\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\tmp\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\tmp\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\tmp\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\tmp\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\20200128\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\20200221\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\20200221\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\20200221\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\20200221\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\20200221\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\20200221\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\20200221\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\20200221\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\20200221\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\20200221\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\20200221\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\leandro.maia\Desktop\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\leandro.maia\Desktop\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\leandro.maia\Desktop\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\leandro.maia\Desktop\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\leandro.maia\Desktop\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\leandro.maia\Desktop\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\leandro.maia\Desktop\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\leandro.maia\Desktop\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\leandro.maia\Desktop\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\leandro.maia\Desktop\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\leandro.maia\Desktop\NOVOS PROJETOS\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\leandro.maia\Desktop\NOVOS PROJETOS\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\leandro.maia\Desktop\NOVOS PROJETOS\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\leandro.maia\Desktop\NOVOS PROJETOS\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\leandro.maia\Desktop\NOVOS PROJETOS\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\leandro.maia\Desktop\NOVOS PROJETOS\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\leandro.maia\Desktop\NOVOS PROJETOS\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\leandro.maia\Desktop\NOVOS PROJETOS\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\leandro.maia\Desktop\NOVOS PROJETOS\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\leandro.maia\Desktop\NOVOS PROJETOS\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\leandro.maia\Desktop\NOVOS PROJETOS\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\leandro.maia\Desktop\NOVOS PROJETOS\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.genruntimeconfig.cache
+C:\Gabrieltmp\criptografia\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Gabrieltmp\criptografia\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Gabrieltmp\criptografia\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Gabrieltmp\criptografia\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Gabrieltmp\criptografia\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Gabrieltmp\criptografia\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Gabrieltmp\criptografia\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Gabrieltmp\criptografia\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Gabrieltmp\criptografia\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Gabrieltmp\criptografia\Criptografia_Descriptografia\programacrip\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\joana.santos\Desktop\Joana.Santos\CRIPTOGRAFIA\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\joana.santos\Desktop\Joana.Santos\CRIPTOGRAFIA\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\joana.santos\Desktop\Joana.Santos\CRIPTOGRAFIA\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\joana.santos\Desktop\Joana.Santos\CRIPTOGRAFIA\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\joana.santos\Desktop\Joana.Santos\CRIPTOGRAFIA\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\joana.santos\Desktop\Joana.Santos\CRIPTOGRAFIA\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\joana.santos\Desktop\Joana.Santos\CRIPTOGRAFIA\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\joana.santos\Desktop\Joana.Santos\CRIPTOGRAFIA\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\joana.santos\Desktop\Joana.Santos\CRIPTOGRAFIA\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\joana.santos\Desktop\Joana.Santos\CRIPTOGRAFIA\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\joana.santos\Desktop\Joana.Santos\CRIPTOGRAFIA\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\joana.santos\Desktop\Joana.Santos\CRIPTOGRAFIA\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\joana.santos\Desktop\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\joana.santos\Desktop\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\joana.santos\Desktop\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\joana.santos\Desktop\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\joana.santos\Desktop\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\joana.santos\Desktop\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\joana.santos\Desktop\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\joana.santos\Desktop\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\joana.santos\Desktop\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\joana.santos\Desktop\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\joana.santos\Desktop\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\joana.santos\Desktop\criptografia-master\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\joana.santos\Desktop\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\joana.santos\Desktop\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\joana.santos\Desktop\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\joana.santos\Desktop\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\joana.santos\Desktop\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\joana.santos\Desktop\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\joana.santos\Desktop\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\joana.santos\Desktop\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\joana.santos\Desktop\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\joana.santos\Desktop\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\joana.santos\Desktop\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\joana.santos\Desktop\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\pablo.santos\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\pablo.santos\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\pablo.santos\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\pablo.santos\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\pablo.santos\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\pablo.santos\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo.santos\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\pablo.santos\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\pablo.santos\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\pablo.santos\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\pablo.santos\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\pablo.santos\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\pablo.santos\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\marcos.cammarota\Documents\Telecall\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\marcos.cammarota\Documents\Telecall\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\marcos.cammarota\Documents\Telecall\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\marcos.cammarota\Documents\Telecall\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\marcos.cammarota\Documents\Telecall\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\marcos.cammarota\Documents\Telecall\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\marcos.cammarota\Documents\Telecall\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcos.cammarota\Documents\Telecall\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\marcos.cammarota\Documents\Telecall\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\marcos.cammarota\Documents\Telecall\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\marcos.cammarota\Documents\Telecall\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\marcos.cammarota\Documents\Telecall\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\marcos.cammarota\Documents\Telecall\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.genruntimeconfig.cache
+\\177.67.24.103\inetpub\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+\\177.67.24.103\inetpub\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+\\177.67.24.103\inetpub\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+\\177.67.24.103\inetpub\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+\\177.67.24.103\inetpub\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+\\177.67.24.103\inetpub\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.AssemblyReference.cache
+\\177.67.24.103\inetpub\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+\\177.67.24.103\inetpub\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+\\177.67.24.103\inetpub\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+\\177.67.24.103\inetpub\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+\\177.67.24.103\inetpub\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+\\177.67.24.103\inetpub\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+\\177.67.24.103\inetpub\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia v1 PTK\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia v1 PTK\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia v1 PTK\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia v1 PTK\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia v1 PTK\Programa\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia v1 PTK\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia v1 PTK\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia v1 PTK\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia v1 PTK\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia v1 PTK\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia v1 PTK\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia v1 PTK\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia v1 PTK\Programa\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.genruntimeconfig.cache
