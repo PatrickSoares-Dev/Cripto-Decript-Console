@@ -10,20 +10,26 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //Crip();
-            DEcrip();
+            try
+            {                
+                
+                Crip();
+                //DEcrip();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Ocorreu um erro durante a execução do programa: " + ex.Message);
+            }
         }
 
-        ///// <summary>
-        ///// Criptografa os arquivos presentes na pasta "Arquivos CRIP" para um determinado cliente.
-        ///// </summary>
-
+        /// <summary>
+        /// Criptografa os arquivos presentes na pasta "Arquivos CRIP" para um determinado cliente.
+        /// </summary>
         public static void Crip()
         {
             string pastaArquivos = @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Arquivos\Arquivos CRIP";
             string pastaCriptografados = @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Arquivos\Criptografados\";
-            string[] extensoesCriptografar = new string[] { ".out", ".ota", ".inp", ".INP" };
-
+            string[] extensoesCriptografar = new string[] { ".out", ".ota", ".inp", ".INP", ".txt", ".gpg"};
 
             Dictionary<string, string[]> chavesClientes = new Dictionary<string, string[]>
             {
@@ -33,15 +39,14 @@ namespace ConsoleApp1
                     @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Public Keys\JSC\Virginia Raluca Croitoru.asc"
                 } },
                 { "VALID", new string[] {
-                    @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Criptografia\Public Keys\VALID\proceso.ficheros.asc",
-                    @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Criptografia\Public Keys\VALID\VALID_TCs.asc"
+                    @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Public Keys\VALID\ABnote GSM.asc",
+                    @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Public Keys\VALID\proceso.ficheros.asc"
                 } },
                 { "1OT", new string[] {
                     @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Public Keys\1OT\1oT_Ken-Tristan_Peterson.asc",
                     @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Public Keys\1OT\1oT_Marcin_Kulczycki.asc",
                     @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Public Keys\1OT\proceso.ficheros.asc",
                     @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Public Keys\1OT\VALID_TCs.asc"
-
                 } },
                 { "GEMALTO", new string[] {
                     @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Public Keys\GEMALTO\DGC_CVA_V2.asc",
@@ -51,13 +56,13 @@ namespace ConsoleApp1
                     @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Public Keys\JSC\MAG.asc"
                 } },
                 { "PARETEUM", new string[] {
-                    @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Public Keys\PARETEUM\PTSecure.asc",
-                    @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Public Keys\PARETEUM\Ramy Sayed.asc",
-                    @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Public Keys\PARETEUM\Ramy.asc",
-                    @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Public Keys\PARETEUM\Teumpub.asc"
+                    @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Criptografia\Public Keys\PARETEUM\PTSecure.asc",
+                    @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Criptografia\Public Keys\PARETEUM\Ramy Sayed.asc",
+                    @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Criptografia\Public Keys\PARETEUM\Ramy.asc",
+                    @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Criptografia\Public Keys\PARETEUM\Teumpub.asc"
                 } },
                 { "GD", new string[] {
-                    @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Criptografia\Public Keys\G&D\GSM_Datagen_Brazil.asc"
+                    @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Public Keys\G&D\GSM_Datagen_Brazil.asc"
                 } },
                 { "WATCHDATA", new string[] {
                     @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Criptografia\Public Keys\WatchData\AdH_Watchdata.asc",
@@ -72,15 +77,13 @@ namespace ConsoleApp1
                     @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Public Keys\WORKZ\Workz_SIMDATA.asc",
                     @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Public Keys\WORKZ\Workz_SIMDATA (739E7C87) – Public.asc",
                 } },
-
             };
 
-            string cliente = "JSC";
+            string cliente = "VALID";
 
             if (chavesClientes.ContainsKey(cliente))
             {
                 string[] chavesCliente = chavesClientes[cliente];
-
                 string chavePrivada = @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Telecall Keys\9E0F5632E05C7228F9256899D5085A8ABE69EFB4.asc";
                 string senha = "Gi?6ae}a)14Cv&U%&!U#Qp5^j!n+SH@M9_<M7uJluM;s!&L<JkN!fC`#+{q*Wu%";
 
@@ -88,7 +91,6 @@ namespace ConsoleApp1
             }
             else
             {
-                // Cliente não encontrado no dicionário de chaves
                 Console.WriteLine("Cliente não encontrado: " + cliente);
             }
         }
@@ -108,8 +110,15 @@ namespace ConsoleApp1
                         string nomeArquivo = Path.GetFileName(caminhoArquivo);
                         string caminhoCriptografado = Path.Combine(pastaCriptografados, nomeArquivo + ".pgp");
 
-                        // Criptografa e assina o arquivo
-                        pgp.EncryptFileAndSign(caminhoArquivo, caminhoCriptografado, chavesCliente, chavePrivada, senha);
+                        try
+                        {
+                            pgp.EncryptFileAndSign(caminhoArquivo, caminhoCriptografado, chavesCliente, chavePrivada, senha);
+                            Console.WriteLine("Arquivo criptografado: " + caminhoArquivo);
+                        }
+                        catch (Exception ex)
+                        {
+                            Console.WriteLine("Erro ao criptografar o arquivo " + caminhoArquivo + ": " + ex.Message);
+                        }
                     }
                 }
             }
@@ -121,19 +130,22 @@ namespace ConsoleApp1
                 string nomeSubpasta = Path.GetFileName(subpasta);
                 string novaPastaCriptografados = Path.Combine(pastaCriptografados, nomeSubpasta);
 
-                // Cria a pasta no diretório de destino, caso ainda não exista
                 Directory.CreateDirectory(novaPastaCriptografados);
 
-                // Chama a função recursivamente para a subpasta
-                CriptografarArquivosRecursivamente(subpasta, novaPastaCriptografados, extensoesCriptografar, chavesCliente, chavePrivada, senha);
+                try
+                {
+                    CriptografarArquivosRecursivamente(subpasta, novaPastaCriptografados, extensoesCriptografar, chavesCliente, chavePrivada, senha);
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Erro ao criptografar arquivos na pasta " + Path.GetFileName(subpasta) + ": " + ex.Message);
+                }
             }
         }
 
-
-        // <summary>
-        // Descriptografa todos os arquivos presentes na pasta "Arquivos DECRIP".
-        // </summary>
-
+        //<summary>
+        //Descriptografa todos os arquivos presentes na pasta "Arquivos DECRIP".
+        //</summary>
         public static void DEcrip()
         {
             string pastaArquivosDecrip = @"C:\Users\patrick.oliveira\Desktop\Criptografia\Criptografia\Arquivos\Arquivos DECRIP";
@@ -152,11 +164,18 @@ namespace ConsoleApp1
             {
                 foreach (string caminhoArquivoDecrip in arquivos)
                 {
-                    string nomeArquivo = Path.GetFileNameWithoutExtension(caminhoArquivoDecrip);
+                    string nomeArquivo = Path.GetFileName(caminhoArquivoDecrip);
                     string caminhoDescriptografado = Path.Combine(pastaDescriptografados, nomeArquivo);
 
-                    // Descriptografa o arquivo
-                    pgp.DecryptFile(caminhoArquivoDecrip, caminhoDescriptografado, chavePrivada, senha);
+                    try
+                    {
+                        pgp.DecryptFile(caminhoArquivoDecrip, caminhoDescriptografado, chavePrivada, senha);
+                        Console.WriteLine("Arquivo descriptografado: " + nomeArquivo);
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine("Erro ao descriptografar o arquivo " + nomeArquivo + ": " + ex.Message);
+                    }
                 }
             }
 
@@ -167,11 +186,16 @@ namespace ConsoleApp1
                 string nomeSubpasta = Path.GetFileName(subpasta);
                 string novaPastaDescriptografados = Path.Combine(pastaDescriptografados, nomeSubpasta);
 
-                // Cria a pasta no diretório de destino, caso ainda não exista
                 Directory.CreateDirectory(novaPastaDescriptografados);
 
-                // Chama a função recursivamente para a subpasta
-                DescriptografarArquivosRecursivamente(subpasta, novaPastaDescriptografados, chavePrivada, senha);
+                try
+                {
+                    DescriptografarArquivosRecursivamente(subpasta, novaPastaDescriptografados, chavePrivada, senha);
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Erro ao descriptografar arquivos na pasta " + nomeSubpasta + ": " + ex.Message);
+                }
             }
         }
     }
